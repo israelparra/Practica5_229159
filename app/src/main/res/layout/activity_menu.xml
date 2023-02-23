@@ -55,7 +55,7 @@
         android:layout_columnWeight="1"
         android:textSize="@dimen/menu_buttons_text"
         android:paddingVertical="@dimen/menu_buttons_paddings"
-        android:id="@+id/button_hot_drinks"
+        android:id="@+id/btnEspecialidades"
         />
 
     <Button
@@ -67,7 +67,7 @@
         android:layout_gravity="fill_horizontal"
         android:layout_columnWeight="1"
         android:textSize="@dimen/menu_buttons_text"
-        android:id="@+id/button_combinations"
+        android:id="@+id/btnCombinations"
         />
 
     <Button
@@ -79,7 +79,7 @@
         android:layout_gravity="fill_horizontal"
         android:layout_columnWeight="1"
         android:textSize="@dimen/menu_buttons_text"
-        android:id="@+id/button_tortas"
+        android:id="@+id/btnTortas"
         />
 
     <Button
@@ -91,7 +91,7 @@
         android:layout_gravity="fill_horizontal"
         android:layout_columnWeight="1"
         android:textSize="@dimen/menu_buttons_text"
-        android:id="@+id/button_sopas"
+        android:id="@+id/btnSopas"
         />
 
     <Button
@@ -103,7 +103,7 @@
         android:layout_gravity="fill_horizontal"
         android:layout_columnWeight="1"
         android:textSize="@dimen/menu_buttons_text"
-        android:id="@+id/button_drinks"
+        android:id="@+id/btnDrinks"
         />
 
 </GridLayout>
